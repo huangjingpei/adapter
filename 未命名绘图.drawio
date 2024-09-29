@@ -121,6 +121,9 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0baXX0BzV9R8ShSw8U21-33" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;需要开发实现&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
